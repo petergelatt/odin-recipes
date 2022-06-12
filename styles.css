@@ -1,0 +1,29 @@
+p,
+li {
+    color: orange;
+}
+h1, 
+h2, 
+h3,
+ul,
+ol {
+    color: rgb(171, 126, 40);
+}
+
+body {
+    list-style-position: inside;
+    text-align: center;
+}
+
+.quiche {
+    height: auto;
+    width: 400px;
+}
+.burrito {
+    height: auto;
+    width: 400px;
+}
+.bowties {
+    height: auto;
+    width: 400px;
+}
